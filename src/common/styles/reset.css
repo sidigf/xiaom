@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: Arial,Verdana,Sans-serif;
+    word-wrap: break-word;
+}
+body{
+    font-size: 1.5rem;
+    color: #333;
+}
+ul{
+    list-style: none;
+}
+li{
+    display: list-item;
+}
+li, img, label, input {
+    vertical-align: middle;
+}
+div{
+    display: block;
+}
+a{
+    color: #333;
+}
+a, input, textarea {
+    text-decoration: none;
+    outline: 0;
+}

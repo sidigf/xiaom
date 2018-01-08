@@ -1,0 +1,3082 @@
+{
+    "data": {
+        "title": "为你推荐",
+        "recom_list": [
+            {
+                "product_tag": "",
+                "product_desc": "六轴传感器 / 左右脚选择放置 / CR2032纽扣电池 / IP67防水防尘等级 / 摇晃绑定APP",
+                "price": "49",
+                "name": "米动智芯2",
+                "market_price": "49",
+                "is_multi_price": false,
+                "image_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/aa2e3af10e48a13b7c12dcfdf4a98d9f.jpg",
+                "action": {
+                    "type": "product",
+                    "recommend_code": "recom_cart_0-1#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=7185",
+                    "path": "7185",
+                    "log_code": "recom_cart_0-1#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=7185"
+                }
+            },
+            {
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120&h=48",
+                "product_desc": "一插即用 / 更便携 / 更稳定",
+                "price": "699",
+                "name": "米家小相机手持云台\t",
+                "market_price": "699",
+                "is_multi_price": false,
+                "image_url": "//i8.mifile.cn/v1/a1/9ba0d5e8-d7da-af12-bb3c-2c673204390e.webp",
+                "action": {
+                    "type": "product",
+                    "recommend_code": "recom_cart_0-2#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=7089",
+                    "path": "7089",
+                    "log_code": "recom_cart_0-2#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=7089"
+                }
+            },
+            {
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120&h=48",
+                "product_desc": "读取速度高达98MB/s，全面兼容您的设备",
+                "price": "54.9",
+                "name": "SanDisk 16GB存储卡",
+                "market_price": "54.9",
+                "is_multi_price": false,
+                "image_url": "//i8.mifile.cn/v1/a1/30343ec5-baae-5b18-c856-1d40bad0dec7.webp",
+                "action": {
+                    "type": "product",
+                    "recommend_code": "recom_cart_0-3#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=7198",
+                    "path": "7198",
+                    "log_code": "recom_cart_0-3#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=7198"
+                }
+            },
+            {
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120&h=48",
+                "product_desc": "IP68级防护 / 40m防水 / 高透光镜片",
+                "price": "99",
+                "name": "米家小相机防水壳",
+                "market_price": "99",
+                "is_multi_price": false,
+                "image_url": "//i8.mifile.cn/v1/a1/a29fbd66-0984-d70b-b7ba-98e407183af5.webp",
+                "action": {
+                    "type": "product",
+                    "recommend_code": "recom_cart_0-4#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=7090",
+                    "path": "7090",
+                    "log_code": "recom_cart_0-4#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=7090"
+                }
+            },
+            {
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120&h=48",
+                "product_desc": "传输速度高达100MB/s，可用于拍摄全高清视频及4K超清视频",
+                "price": "129",
+                "name": "SanDisk 32GB存储卡",
+                "market_price": "129",
+                "is_multi_price": false,
+                "image_url": "//i8.mifile.cn/v1/a1/f702ac30-c67e-f8a4-6e3d-830fa186435c.webp",
+                "action": {
+                    "type": "product",
+                    "recommend_code": "recom_cart_0-5#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=7201",
+                    "path": "7201",
+                    "log_code": "recom_cart_0-5#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=7201"
+                }
+            },
+            {
+                "product_tag": "//i8.mifile.cn/v1/a1/494a62d3-7173-832b-71d4-ebcb111c3e54.webp?w=180&h=48",
+                "product_desc": "<font color=\"#ff4a00\">【小米MIX 2 现货在售，享小米分期3/6/12期免息】</font>全面屏2.0，5.99\"大屏 / 骁龙835旗舰处理器 / 4轴光学防抖 / 6模43频，全球频段 / 双ADC高清录音",
+                "price": "3299",
+                "name": "小米MIX 2 64GB",
+                "market_price": "3299",
+                "is_multi_price": false,
+                "image_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d68da7f79cc9800a34b1b48e1a439e44.jpg",
+                "action": {
+                    "type": "product",
+                    "recommend_code": "recom_cart_0-6#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=6701",
+                    "path": "6701",
+                    "log_code": "recom_cart_0-6#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=6701"
+                }
+            },
+            {
+                "product_tag": "",
+                "product_desc": "<font color=\"#ff4a00\">【陶瓷尊享版现货在售】</font>变焦双摄，4 轴防抖 / 骁龙835 旗舰处理器，6GB 大内存，最大可选128GB 闪存 / 5.15\" 护眼屏 / 四曲面玻璃/陶瓷机身",
+                "price": "2999",
+                "name": "小米6 陶瓷尊享版",
+                "market_price": "2999",
+                "is_multi_price": false,
+                "image_url": "//i8.mifile.cn/v1/a1/6669ced8-5009-62a0-cc7b-2ea26c602610.webp",
+                "action": {
+                    "type": "product",
+                    "recommend_code": "recom_cart_0-7#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=5687",
+                    "path": "5687",
+                    "log_code": "recom_cart_0-7#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=5687"
+                }
+            },
+            {
+                "product_tag": "",
+                "product_desc": "<font color=\"#ff4a00\">【付1得2，支付得等额现金券+等额话费。现金券及话费在米粉卡激活后即可使用，话费为赠费。每人每卡限购一单。】</font>\n电信4G网络 / 1元500M / 3元不限量 / 不用不花钱 / 通话短信1毛 / 全国接听免费",
+                "price": "50",
+                "name": "米粉卡日租卡",
+                "market_price": "50",
+                "is_multi_price": true,
+                "image_url": "//i8.mifile.cn/v1/a1/8ef6df34-51d2-a7ef-1dd7-1fcf049259f1.webp",
+                "action": {
+                    "type": "product",
+                    "recommend_code": "recom_cart_0-8#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=6009",
+                    "path": "6009",
+                    "log_code": "recom_cart_0-8#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=6009"
+                }
+            },
+            {
+                "product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e9505d3d174fd2ea1d2d75ddf6b42517.png?w=120&h=48",
+                "product_desc": "<font color=\"#ff4a00\">【现货在售，买赠贴膜、保护套】</font>光学变焦双摄，拍人更美 / 5.5''大屏轻薄全金属 / 骁龙八核处理器 / 4GB大内存",
+                "price": "1499",
+                "name": "小米5X 4GB+64GB",
+                "market_price": "1499",
+                "is_multi_price": false,
+                "image_url": "//i8.mifile.cn/v1/a1/9d02b9e9-8167-d103-d0d1-c4cc96476aa0.webp",
+                "action": {
+                    "type": "product",
+                    "recommend_code": "recom_cart_0-9#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=6259",
+                    "path": "6259",
+                    "log_code": "recom_cart_0-9#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=6259"
+                }
+            },
+            {
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120&h=48",
+                "product_desc": "<font color=\"#ff4a00\">【黑色新版本，正在预约中，11月1日0点 开售。64GB 赠贴膜+支架式自拍杆+米粉卡，享花呗6期免息，小米分期3/6期免息】</font>6.44''大屏 / 5300mAh 充电宝级的大电量 / 大像素相机 / 轻薄全金属  / ​4GB 大内存 / 骁龙八核处理器",
+                "price": "1699",
+                "name": "小米Max 2 64GB",
+                "market_price": "1699",
+                "is_multi_price": false,
+                "image_url": "//i8.mifile.cn/v1/a1/4db2d2d1-9200-5ad6-013b-997c8ab5253e.webp",
+                "action": {
+                    "type": "product",
+                    "recommend_code": "recom_cart_0-10#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=5780",
+                    "path": "5780",
+                    "log_code": "recom_cart_0-10#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=5780"
+                }
+            },
+            {
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120&h=48",
+                "product_desc": "<font color=\"#ff4a00\">【11月1日早10点开售】</font>超短焦 / 150 英寸超大投影尺寸 / ALPD 3.0 激光光源技术 / 色域宽、亮度高，3000：1 原生对比度 / 小米电视相同内容源\n\n",
+                "price": "9999",
+                "name": "米家激光投影电视",
+                "market_price": "9999",
+                "is_multi_price": false,
+                "image_url": "//i8.mifile.cn/v1/a1/c852d659-3840-6c1a-d72f-709f7c0880d5.webp",
+                "action": {
+                    "type": "product",
+                    "recommend_code": "recom_cart_0-11#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=6158",
+                    "path": "6158",
+                    "log_code": "recom_cart_0-11#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=6158"
+                }
+            },
+            {
+                "product_tag": "",
+                "product_desc": "<font color=\"#ff4a00\">【小米手环2一件包邮】</font>OLED显示屏，时间、步数、心率，触手可及 / 全新腕带设计，升级计步算法 / 精准心率监测，科学运动自主掌握",
+                "price": "149",
+                "name": "小米手环2",
+                "market_price": "149",
+                "is_multi_price": false,
+                "image_url": "//i8.mifile.cn/v1/a1/97c2e91e-523e-3988-3abc-aacc824f2737.webp",
+                "action": {
+                    "type": "product",
+                    "recommend_code": "recom_cart_0-12#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=4565",
+                    "path": "4565",
+                    "log_code": "recom_cart_0-12#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=4565"
+                }
+            },
+            {
+                "product_tag": "",
+                "product_desc": "5.5\"多彩金属 / 4100mAh 超长续航 / 骁龙 8 核625处理器",
+                "price": "999",
+                "name": "红米Note 4X 32GB",
+                "market_price": "999",
+                "is_multi_price": false,
+                "image_url": "//i8.mifile.cn/v1/a1/5dac8d89-f26c-ee8d-2c5f-82f2f716c49c.webp",
+                "action": {
+                    "type": "product",
+                    "recommend_code": "recom_cart_0-13#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=5206",
+                    "path": "5206",
+                    "log_code": "recom_cart_0-13#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=5206"
+                }
+            },
+            {
+                "product_tag": "",
+                "product_desc": "5.5\"金属机身 / 4100mAh 超长续航 / 骁龙 625处理器",
+                "price": "1299",
+                "name": "红米Note 4X 浅蓝色",
+                "market_price": "1299",
+                "is_multi_price": false,
+                "image_url": "//i8.mifile.cn/v1/a1/fb2ad7cd-54dc-cb8e-c4df-26e052bbbcb6.webp",
+                "action": {
+                    "type": "product",
+                    "recommend_code": "recom_cart_0-14#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=5782",
+                    "path": "5782",
+                    "log_code": "recom_cart_0-14#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=5782"
+                }
+            },
+            {
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120&h=48",
+                "product_desc": "3层复合面料 / 保暖摇粒绒 / 防水透气",
+                "price": "249",
+                "name": "小米3L软壳风衣",
+                "market_price": "249",
+                "is_multi_price": false,
+                "image_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/bb5b9e4caecb5699b1fba79dd601d8c3.jpg",
+                "action": {
+                    "type": "product",
+                    "recommend_code": "recom_cart_0-15#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=7060",
+                    "path": "7060",
+                    "log_code": "recom_cart_0-15#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=7060"
+                }
+            },
+            {
+                "product_tag": "//i8.mifile.cn/v1/a1/289039eb-c3ed-7c26-69c3-5b07b72a797d.webp?w=120&h=48",
+                "product_desc": "一体式高弹针织鞋面 / 鱼骨足弓锁紧系统组合式鞋底\n / 扭力平衡片",
+                "price": "199",
+                "name": "米家运动鞋 男款",
+                "market_price": "199",
+                "is_multi_price": false,
+                "image_url": "//i8.mifile.cn/v1/a1/5a6205c8-aaa6-3a71-9ee3-1ae0dd0deb66.webp",
+                "action": {
+                    "type": "product",
+                    "recommend_code": "recom_cart_0-16#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=6520",
+                    "path": "6520",
+                    "log_code": "recom_cart_0-16#eid=15:12:0:0:0:0:0:0:0:0&tid=CartRec-78cpaAwFqwUTL0eVFuqCzg==&page=cart&pid=6520"
+                }
+            }
+        ],
+        "header": {
+            "view_type": "cells_auto_fill",
+            "body": {
+                "w": 1080,
+                "items": [
+                    {
+                        "w": 1080,
+                        "title_tomorrow": "",
+                        "title_today": "",
+                        "title_future": "",
+                        "subtitle_will_begin": "",
+                        "subtitle_end": "",
+                        "subtitle_begin": "",
+                        "start_title": "",
+                        "secbuy_type": "",
+                        "path_type": "image",
+                        "not_start_title": "",
+                        "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e95ade2750a7fde92369b416c7d3176d.jpg",
+                        "h": 180,
+                        "desc_will_begin": "",
+                        "desc_begin": ""
+                    }
+                ],
+                "h": 180
+            }
+        }
+    },
+    "data2": [
+        {
+            "is_default": false,
+            "category_name_en": "",
+            "category_name": "新品",
+            "category_list": [
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/fc9bc91a-fb9f-e0c4-5020-2bf1e8e89371.webp?bg=4B515A",
+                                "img_url_color": "#4B515A",
+                                "img_url": "//i8.mifile.cn/v1/a1/fc9bc91a-fb9f-e0c4-5020-2bf1e8e89371.webp?bg=4B515A",
+                                "h": 200,
+                                "action": {
+                                    "type": "product",
+                                    "path": "5780",
+                                    "log_code": "31wapcategorycells_auto_fill001001#rid=c1bf507b12c93c6139952588922dbbd0&t=ad&page=category&act=product&pid=5780&page_id=25&bid=3002987.1&adp=757&adm=4040"
+                                }
+                            }
+                        ],
+                        "h": 200,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "手机",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001015#rid=5fe3c61be403f16680b01640401939a3&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "小米MIX 2",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/95e18c104b398643101805287a00ad2b.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/95e18c104b398643101805287a00ad2b.png",
+                                "category_name": "手机",
+                                "action": {
+                                    "type": "product",
+                                    "path": "10000070",
+                                    "log_code": "31wapcategorycategory_group001016#rid=dc1206e2d360181a2c0ab3dfdbc4ac01&t=normal&page=category&act=product&pid=10000070"
+                                }
+                            },
+                            {
+                                "product_name": "小米Note 3",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/7bb843bdb8e1f61f4567f1e2acb43262.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/7bb843bdb8e1f61f4567f1e2acb43262.png",
+                                "category_name": "手机",
+                                "action": {
+                                    "type": "product",
+                                    "path": "10000069",
+                                    "log_code": "31wapcategorycategory_group002016#rid=be56f164c30c71f6db929dc84b5551a7&t=normal&page=category&act=product&pid=10000069"
+                                }
+                            },
+                            {
+                                "product_name": "小米6",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/f0e283f74845939fd24d53f7fb1d35c1.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/f0e283f74845939fd24d53f7fb1d35c1.png",
+                                "category_name": "手机",
+                                "action": {
+                                    "type": "product",
+                                    "path": "10000041",
+                                    "log_code": "31wapcategorycategory_group003016#rid=2f2beb54f05d7a504347ba313a25806e&t=normal&page=category&act=product&pid=10000041"
+                                }
+                            },
+                            {
+                                "product_name": "小米5X",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/f50a66098acdec2fa16e5d30a7f50769.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/f50a66098acdec2fa16e5d30a7f50769.png",
+                                "category_name": "手机",
+                                "action": {
+                                    "type": "product",
+                                    "path": "10000064",
+                                    "log_code": "31wapcategorycategory_group001017#rid=61f07238c7d31153557a4009e75102b6&t=normal&page=category&act=product&pid=10000064"
+                                }
+                            },
+                            {
+                                "product_name": "小米Max 2",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/88bc9af6c3bd4e7a695060fe628971e8.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/88bc9af6c3bd4e7a695060fe628971e8.png",
+                                "category_name": "手机",
+                                "action": {
+                                    "type": "product",
+                                    "path": "10000057",
+                                    "log_code": "31wapcategorycategory_group002017#rid=21aad5781445324cbe42155a03b0b231&t=normal&page=category&act=product&pid=10000057"
+                                }
+                            },
+                            {
+                                "product_name": "红米Note 5A",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/e72c32611dd54e71d3579eeee2266c81.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/e72c32611dd54e71d3579eeee2266c81.png",
+                                "category_name": "手机",
+                                "action": {
+                                    "type": "product",
+                                    "path": "10000068",
+                                    "log_code": "31wapcategorycategory_group003017#rid=641126ce8b9dff880c49d3f1e19c8ca5&t=normal&page=category&act=product&pid=10000068"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "电视",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001018#rid=9a2601ddbf3a66fc7a7ccef06829eb7a&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "32英寸",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/0ceafb0119fb20b519f422240ff7bdb0.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/0ceafb0119fb20b519f422240ff7bdb0.png",
+                                "category_name": "电视",
+                                "action": {
+                                    "type": "product",
+                                    "path": "2172700021",
+                                    "log_code": "31wapcategorycategory_group001019#rid=31f4fa2d6d722f95ab8c2efc55f7ba83&t=normal&page=category&act=product&pid=2172700021"
+                                }
+                            },
+                            {
+                                "product_name": "43英寸",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/9870612fa0f3700a4031219b6f628b7d.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/9870612fa0f3700a4031219b6f628b7d.png",
+                                "category_name": "电视",
+                                "action": {
+                                    "type": "product",
+                                    "path": "6850",
+                                    "log_code": "31wapcategorycategory_group002019#rid=9a7fe8a880875a61f564af37a182e0a0&t=normal&page=category&act=product&pid=6850"
+                                }
+                            },
+                            {
+                                "product_name": "55英寸",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/e47f77da9d3b5d994d11fd7c6cce7b97.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/e47f77da9d3b5d994d11fd7c6cce7b97.png",
+                                "category_name": "电视",
+                                "action": {
+                                    "type": "product",
+                                    "path": "6628",
+                                    "log_code": "31wapcategorycategory_group003019#rid=8ed779586bd8b72b548a5088db337a92&t=normal&page=category&act=product&pid=6628"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "电脑",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001020#rid=1761f568ffae930cc9fe381ab96f526d&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "笔记本Pro 15.6\"",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/e86a2f01f65b88869b78f2c54cc7f258.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/e86a2f01f65b88869b78f2c54cc7f258.png",
+                                "category_name": "电脑",
+                                "action": {
+                                    "type": "product",
+                                    "path": "10000071",
+                                    "log_code": "31wapcategorycategory_group001021#rid=2088376c08be9b483e975af5eb15c784&t=normal&page=category&act=product&pid=10000071"
+                                }
+                            },
+                            {
+                                "product_name": "笔记本13.3\" i7",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/f0d7f8167e14f0c70fd84aa6cb321cb6.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/f0d7f8167e14f0c70fd84aa6cb321cb6.png",
+                                "category_name": "电脑",
+                                "action": {
+                                    "type": "product",
+                                    "path": "6203",
+                                    "log_code": "31wapcategorycategory_group002021#rid=cb9fab751d06f87391030aa37e9971fd&t=normal&page=category&act=product&pid=6203"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                }
+            ],
+            "category_id": 653
+        },
+        {
+            "is_default": true,
+            "category_name_en": "shouji",
+            "category_name": "手机",
+            "category_list": [
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/a23f36e5-b284-ef76-b21f-606246602a07.webp?bg=EFBEBB",
+                                "img_url_color": "#EFBEBB",
+                                "img_url": "//i8.mifile.cn/v1/a1/a23f36e5-b284-ef76-b21f-606246602a07.webp?bg=EFBEBB",
+                                "h": 200,
+                                "action": {
+                                    "type": "product",
+                                    "path": "10000068",
+                                    "log_code": "31wapcategorycells_auto_fill001002#rid=a7a4786c701fdaa7b8f54ecb2e331cb9&t=ad&page=category&act=product&pid=10000068&page_id=25&bid=3002988.1&adp=758&adm=3919"
+                                }
+                            }
+                        ],
+                        "h": 200,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "小米手机",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001022#rid=36ba2ed8d58e55cf441bc0ee322016e4&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "小米MIX 2",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/95e18c104b398643101805287a00ad2b.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/95e18c104b398643101805287a00ad2b.png",
+                                "category_name": "小米手机",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "701",
+                                    "log_code": "31wapcategorycategory_group001023#rid=1e20629a01ad7e66d890db60c6f2fe7a&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "小米Note 3",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/7bb843bdb8e1f61f4567f1e2acb43262.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/7bb843bdb8e1f61f4567f1e2acb43262.png",
+                                "category_name": "小米手机",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "702",
+                                    "log_code": "31wapcategorycategory_group002023#rid=3ba61582fd9861d1479f5981dad13614&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "小米6",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0ed187521ff28e6616798c1c990c1788.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0ed187521ff28e6616798c1c990c1788.png",
+                                "category_name": "小米手机",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "630",
+                                    "log_code": "31wapcategorycategory_group003023#rid=476171d99f099e23115ff22a4469054e&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "小米5X",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/f50a66098acdec2fa16e5d30a7f50769.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/f50a66098acdec2fa16e5d30a7f50769.png",
+                                "category_name": "小米手机",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "693",
+                                    "log_code": "31wapcategorycategory_group001024#rid=3b1adcf5109720e8a8c0f6bbf5af9425&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "小米Max 2",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/88bc9af6c3bd4e7a695060fe628971e8.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/88bc9af6c3bd4e7a695060fe628971e8.png",
+                                "category_name": "小米手机",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "665",
+                                    "log_code": "31wapcategorycategory_group002024#rid=1e1b4ee1553444a26b12b1c401c4ba2f&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "小米MIX",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8904f343b2dffb29ee608c5a0ddd50c2.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8904f343b2dffb29ee608c5a0ddd50c2.png",
+                                "category_name": "小米手机",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "420",
+                                    "log_code": "31wapcategorycategory_group003024#rid=836f1211ce5e2bf8f717e5186a4447d2&t=normal&page=category&act=cat"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "红米手机",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001025#rid=7168dc405a30e4300b1fbb7450b1a57b&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "红米5A",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/b3fcf9a7432858f4e4a7eab6e44f7b90.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/b3fcf9a7432858f4e4a7eab6e44f7b90.png",
+                                "category_name": "红米手机",
+                                "action": {
+                                    "type": "product",
+                                    "path": "6874",
+                                    "log_code": "31wapcategorycategory_group001026#rid=53acbc68b86b505fc7dfb05faa79a8d8&t=normal&page=category&act=product&pid=6874"
+                                }
+                            },
+                            {
+                                "product_name": "红米Note 5A",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/e72c32611dd54e71d3579eeee2266c81.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/e72c32611dd54e71d3579eeee2266c81.png",
+                                "category_name": "红米手机",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "698",
+                                    "log_code": "31wapcategorycategory_group002026#rid=5c6d1af7c045b101e28cf19fef0903d1&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "红米Note 4X",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/ea6275142315b78422e4f047406fc76c.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/ea6275142315b78422e4f047406fc76c.png",
+                                "category_name": "红米手机",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "443",
+                                    "log_code": "31wapcategorycategory_group003026#rid=37799e39ed15d4988ca80632aa3686ff&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "红米4X",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/661f8ad7f2014f352e3a47fbb5ee2939.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/661f8ad7f2014f352e3a47fbb5ee2939.png",
+                                "category_name": "红米手机",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "449",
+                                    "log_code": "31wapcategorycategory_group001027#rid=7de7372b9fefbf7b23c1b8e4b45f63e1&t=normal&page=category&act=cat"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "移动4G+专区",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001028#rid=4b5183567ef851b094f4cc64b96297c1&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "小米6",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/f0e283f74845939fd24d53f7fb1d35c1.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/f0e283f74845939fd24d53f7fb1d35c1.png",
+                                "category_name": "移动4G+专区",
+                                "action": {
+                                    "type": "product",
+                                    "path": "2171700002",
+                                    "log_code": "31wapcategorycategory_group001029#rid=57112135f0046cd048e9d17492e2f045&t=normal&page=category&act=product&pid=2171700002"
+                                }
+                            },
+                            {
+                                "product_name": "红米Note 4X",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/ea6275142315b78422e4f047406fc76c.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/ea6275142315b78422e4f047406fc76c.png",
+                                "category_name": "移动4G+专区",
+                                "action": {
+                                    "type": "product",
+                                    "path": "2171300010",
+                                    "log_code": "31wapcategorycategory_group002029#rid=cb58bad16cb212699bd8d5e7009b31eb&t=normal&page=category&act=product&pid=2171300010"
+                                }
+                            },
+                            {
+                                "product_name": "红米4X",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/661f8ad7f2014f352e3a47fbb5ee2939.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/661f8ad7f2014f352e3a47fbb5ee2939.png",
+                                "category_name": "移动4G+专区",
+                                "action": {
+                                    "type": "product",
+                                    "path": "2170800008",
+                                    "log_code": "31wapcategorycategory_group003029#rid=40f44180002e90c2f3fd76fe7f6dcb1c&t=normal&page=category&act=product&pid=2170800008"
+                                }
+                            },
+                            {
+                                "product_name": "小米5X",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/a075a3e6c3847b0f658cda1464c5d5c1.jpg",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/a075a3e6c3847b0f658cda1464c5d5c1.jpg",
+                                "category_name": "移动4G+专区",
+                                "action": {
+                                    "type": "product",
+                                    "path": "2173100004",
+                                    "log_code": "31wapcategorycategory_group001030#rid=059385852a30e3c80a0c0523e37cebcb&t=normal&page=category&act=product&pid=2173100004"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/7b4fc049-2b51-b26f-f5e2-427cea7a3925.webp?bg=F6F1E1",
+                                "img_url_color": "#F6F1E1",
+                                "img_url": "//i8.mifile.cn/v1/a1/7b4fc049-2b51-b26f-f5e2-427cea7a3925.webp?bg=F6F1E1",
+                                "h": 80,
+                                "action": {
+                                    "type": "channel",
+                                    "path": "1831",
+                                    "log_code": "31wapcategorycells_auto_fill001031#rid=5fcb33df015e03acf32acbfe00a3941b&t=ad&page=category&act=other&adp=1272&adm=3282"
+                                }
+                            }
+                        ],
+                        "h": 80,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "手机配件",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001032#rid=fe6770f21364be06bce5fbac63a1ea20&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "以旧换新",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/e55a5383-9b7f-1dfd-7f12-e648f69f5c41.png",
+                                "img_url": "//i8.mifile.cn/v1/a1/e55a5383-9b7f-1dfd-7f12-e648f69f5c41.png",
+                                "category_name": "手机配件",
+                                "action": {
+                                    "type": "url",
+                                    "path": "https://s1.mi.com/m/ghd/2015/1124recycling/?channel=m&needValidHost=false",
+                                    "log_code": "31wapcategorycategory_group001033#rid=d4e12d8933c9c86b4d449e35b517d76c&t=normal&page=category&act=webview"
+                                }
+                            },
+                            {
+                                "product_name": "定位电话",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f56e7030f11712746a6ba8f3002e6064.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f56e7030f11712746a6ba8f3002e6064.png",
+                                "category_name": "手机配件",
+                                "action": {
+                                    "type": "product",
+                                    "path": "2162800013",
+                                    "log_code": "31wapcategorycategory_group002033#rid=879f767cbef4b220229eddc5f3112646&t=normal&page=category&act=product&pid=2162800013"
+                                }
+                            },
+                            {
+                                "product_name": "贴膜",
+                                "img_url_webp": "//i1.mifile.cn/v1/a1/T1XKE_B_hT1R4cSCrK.png",
+                                "img_url": "//i1.mifile.cn/v1/a1/T1XKE_B_hT1R4cSCrK.png",
+                                "category_name": "手机配件",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "500",
+                                    "log_code": "31wapcategorycategory_group003033#rid=ca0ce51242076f4c750652720e051704&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "保护壳",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/T1P0LgBgdv1R4cSCrK.png",
+                                "img_url": "//i8.mifile.cn/v1/a1/T1P0LgBgdv1R4cSCrK.png",
+                                "category_name": "手机配件",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "501",
+                                    "log_code": "31wapcategorycategory_group001034#rid=ab14131e29da518899491964a1e1a4ae&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "充电器",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/eff418ab8f3f0a19f419f730edea5e1b.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/eff418ab8f3f0a19f419f730edea5e1b.png",
+                                "category_name": "手机配件",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "611",
+                                    "log_code": "31wapcategorycategory_group002034#rid=3b23434e3a56ffb1289d7a85f12a66cb&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "数据线",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/b0580f26-ce5f-a53e-c4ef-6adaf4b798f9!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/b0580f26-ce5f-a53e-c4ef-6adaf4b798f9!200x200.jpg",
+                                "category_name": "手机配件",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "502",
+                                    "log_code": "31wapcategorycategory_group003034#rid=ea9d1b0c420d04cf2a0ae0f089c45cd3&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "存储卡",
+                                "img_url_webp": "//i1.mifile.cn/v1/a1/T1fOA_B_YT1R4cSCrK.png",
+                                "img_url": "//i1.mifile.cn/v1/a1/T1fOA_B_YT1R4cSCrK.png",
+                                "category_name": "手机配件",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "503",
+                                    "log_code": "31wapcategorycategory_group001035#rid=9939867a624c788ae25a129317b1ffdd&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "自拍杆",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/4a881b13-d65b-3d63-2bcd-063697074c81!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/4a881b13-d65b-3d63-2bcd-063697074c81!200x200.jpg",
+                                "category_name": "手机配件",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "504",
+                                    "log_code": "31wapcategorycategory_group002035#rid=a62610c7ccaa7556d01127613352faec&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "手机支架",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/51fa8670-774c-c9d0-564b-cf5ff06e6773.png",
+                                "img_url": "//i8.mifile.cn/v1/a1/51fa8670-774c-c9d0-564b-cf5ff06e6773.png",
+                                "category_name": "手机配件",
+                                "action": {
+                                    "type": "product",
+                                    "path": "2162000034",
+                                    "log_code": "31wapcategorycategory_group003035#rid=6ec3eb8326a474d51013ff870cbd13e2&t=normal&page=category&act=product&pid=2162000034"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                }
+            ],
+            "category_id": 457
+        },
+        {
+            "is_default": false,
+            "category_name_en": "dianshi",
+            "category_name": "电视",
+            "category_list": [
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/bfcb86e5-70a8-ada3-6011-f0c971aa66de.webp?bg=C2C9D1",
+                                "img_url_color": "#C2C9D1",
+                                "img_url": "//i8.mifile.cn/v1/a1/bfcb86e5-70a8-ada3-6011-f0c971aa66de.webp?bg=C2C9D1",
+                                "h": 200,
+                                "action": {
+                                    "type": "activity",
+                                    "path": "https://s1.mi.com/pages/0f21f0349462cacdc5796990d37760ae/index.html",
+                                    "log_code": "31wapcategorycells_auto_fill001003#rid=ee439faf4536ff5e36efd78c441e8420&t=ad&page=category&act=other&page_id=25&bid=3002989.1&adp=759&adm=4178"
+                                }
+                            }
+                        ],
+                        "h": 200,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "电视",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001036#rid=a491d670a8d89d7cffbc3c3d5fe7bea1&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "32英寸",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/ae525d6481ad090edc97ac64ed93e048.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/ae525d6481ad090edc97ac64ed93e048.png",
+                                "category_name": "电视",
+                                "action": {
+                                    "type": "product",
+                                    "path": "6222",
+                                    "log_code": "31wapcategorycategory_group001037#rid=42a9e66a0f58301d8f6aed5728511932&t=normal&page=category&act=product&pid=6222"
+                                }
+                            },
+                            {
+                                "product_name": "43英寸",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/de645bfe55dd46d3fc5ec78a8755a644.jpg",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/de645bfe55dd46d3fc5ec78a8755a644.jpg",
+                                "category_name": "电视",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "322",
+                                    "log_code": "31wapcategorycategory_group002037#rid=daaed6e915b9e43a7378f3767375c411&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "49英寸",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/efb682b76a29411fd26d990971992c3e.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/efb682b76a29411fd26d990971992c3e.png",
+                                "category_name": "电视",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "143",
+                                    "log_code": "31wapcategorycategory_group003037#rid=05d35a955ce48c87628332639be9dd93&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "55英寸",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/a68d31ccb3ac07f289abc39a5682f334.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/a68d31ccb3ac07f289abc39a5682f334.png",
+                                "category_name": "电视",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "326",
+                                    "log_code": "31wapcategorycategory_group001038#rid=2c7ee4dc58fdbeb73e7be8d29182b1fb&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "65英寸",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/976a7cf20fc4d2c72be96c0a7ded63d1.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/976a7cf20fc4d2c72be96c0a7ded63d1.png",
+                                "category_name": "电视",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "324",
+                                    "log_code": "31wapcategorycategory_group002038#rid=e2291547ead4d79811c19f16356099d2&t=normal&page=category&act=cat"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/107133a6-3424-cdea-65cf-dfd061581ff2.webp?bg=F6F1E1",
+                                "img_url_color": "#F6F1E1",
+                                "img_url": "//i8.mifile.cn/v1/a1/107133a6-3424-cdea-65cf-dfd061581ff2.webp?bg=F6F1E1",
+                                "h": 80,
+                                "action": {
+                                    "type": "channel",
+                                    "path": "29",
+                                    "log_code": "31wapcategorycells_auto_fill001039#rid=93f7adaf64a36bd2896a5e836896df34&t=ad&page=category&act=other&adp=1303&adm=3150"
+                                }
+                            }
+                        ],
+                        "h": 80,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "盒子",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001040#rid=adcfa68bf73c955d9c1b8672ecf62e5d&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "盒子3s",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/2ba96ac5-dff1-4ee3-663a-3ae893fb73b9!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/2ba96ac5-dff1-4ee3-663a-3ae893fb73b9!200x200.jpg",
+                                "category_name": "盒子",
+                                "action": {
+                                    "type": "product",
+                                    "path": "2164600007",
+                                    "log_code": "31wapcategorycategory_group001041#rid=a648b7c017907bb3d6ff2f53620c669b&t=normal&page=category&act=product&pid=2164600007"
+                                }
+                            },
+                            {
+                                "product_name": "盒子3c",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/2ba96ac5-dff1-4ee3-663a-3ae893fb73b9!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/2ba96ac5-dff1-4ee3-663a-3ae893fb73b9!200x200.jpg",
+                                "category_name": "盒子",
+                                "action": {
+                                    "type": "product",
+                                    "path": "2164600006",
+                                    "log_code": "31wapcategorycategory_group002041#rid=eaf08671d28a4234d1e3f62eda39b17e&t=normal&page=category&act=product&pid=2164600006"
+                                }
+                            },
+                            {
+                                "product_name": "盒子3增强版",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/T16AhgBCVv1RXrhCrK.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/T16AhgBCVv1RXrhCrK.jpg",
+                                "category_name": "盒子",
+                                "action": {
+                                    "type": "product",
+                                    "path": "2172200005",
+                                    "log_code": "31wapcategorycategory_group003041#rid=330a3bc3dcbbd98725349c8bc6995243&t=normal&page=category&act=product&pid=2172200005"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "音箱",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001042#rid=cf639747a1238b69ab998c7d5c6e394a&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "家庭音响",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/0d3b8160-0cd0-54d2-8424-d7b4287c3512.png",
+                                "img_url": "//i8.mifile.cn/v1/a1/0d3b8160-0cd0-54d2-8424-d7b4287c3512.png",
+                                "category_name": "音箱",
+                                "action": {
+                                    "type": "product",
+                                    "path": "4910",
+                                    "log_code": "31wapcategorycategory_group001043#rid=70d0e96f1f792510bff009aebc9d366d&t=normal&page=category&act=product&pid=4910"
+                                }
+                            },
+                            {
+                                "product_name": "蓝牙音箱",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/7c50ff1d52895216952388343a6e2a45.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/7c50ff1d52895216952388343a6e2a45.png",
+                                "category_name": "音箱",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "509",
+                                    "log_code": "31wapcategorycategory_group002043#rid=9dea14454e0d208d32f1726f5455fc59&t=normal&page=category&act=cat"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "电视配件与会员",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001044#rid=c230a72599b3d669d61a610a46448270&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "会员卡",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/114ee8a84c2080d15a167d1d23f5cf62.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/114ee8a84c2080d15a167d1d23f5cf62.png",
+                                "category_name": "电视配件与会员",
+                                "action": {
+                                    "type": "product",
+                                    "path": "2164900001",
+                                    "log_code": "31wapcategorycategory_group001045#rid=1ff827e4c7e735cedcd395a8280c9ff8&t=normal&page=category&act=product&pid=2164900001"
+                                }
+                            },
+                            {
+                                "product_name": "遥控器",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/T1gox_BsWT1RXrhCrK!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/T1gox_BsWT1RXrhCrK!200x200.jpg",
+                                "category_name": "电视配件与会员",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "513",
+                                    "log_code": "31wapcategorycategory_group002045#rid=b7193d17327a4ffc25a2633d03bf2ae8&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "线材转接器",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/bc66bce5-6674-2d6f-25b6-0167bbb6affa!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/bc66bce5-6674-2d6f-25b6-0167bbb6affa!200x200.jpg",
+                                "category_name": "电视配件与会员",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "514",
+                                    "log_code": "31wapcategorycategory_group003045#rid=5663435f757b9bd29964401f12d01357&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "安装服务",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/07f6f6c592ed9bb6d6feea460b021c7e.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/07f6f6c592ed9bb6d6feea460b021c7e.png",
+                                "category_name": "电视配件与会员",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "378",
+                                    "log_code": "31wapcategorycategory_group001046#rid=12e6237f15f5cc2b5f1918a9060cef1d&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "麦克风",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/161b5d9d91ffbb0a47681b36d7ea6e17.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/161b5d9d91ffbb0a47681b36d7ea6e17.png",
+                                "category_name": "电视配件与会员",
+                                "action": {
+                                    "type": "product",
+                                    "path": "4587",
+                                    "log_code": "31wapcategorycategory_group002046#rid=2fa9362a1bad8074560b82842352a732&t=normal&page=category&act=product&pid=4587"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                }
+            ],
+            "category_id": 458
+        },
+        {
+            "is_default": false,
+            "category_name_en": "diannao",
+            "category_name": "电脑",
+            "category_list": [
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/efdcf401-f553-aef7-1751-43854b6f4a20.webp?bg=7F97B1",
+                                "img_url_color": "#7F97B1",
+                                "img_url": "//i8.mifile.cn/v1/a1/efdcf401-f553-aef7-1751-43854b6f4a20.webp?bg=7F97B1",
+                                "h": 200,
+                                "action": {
+                                    "type": "channel",
+                                    "path": "1607",
+                                    "log_code": "31wapcategorycells_auto_fill001004#rid=8440afbd9e8855daafd991cbfda104db&t=ad&page=category&act=other&page_id=25&bid=3002990.1&adp=760&adm=3549"
+                                }
+                            }
+                        ],
+                        "h": 200,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "电脑",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001047#rid=c8f57e005be9697ea30f489c1c4547a4&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "笔记本12.5\"",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/78e8a82a-1ef7-453b-5a07-d8394081ae2e.png",
+                                "img_url": "//i8.mifile.cn/v1/a1/78e8a82a-1ef7-453b-5a07-d8394081ae2e.png",
+                                "category_name": "电脑",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "385",
+                                    "log_code": "31wapcategorycategory_group001048#rid=d3a9f27c2493ab496b21e24b1f5b4c41&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "笔记本13.3\" ",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/8a9485f0-3b11-9d50-cbaa-1ee1cc0936cd.png",
+                                "img_url": "//i8.mifile.cn/v1/a1/8a9485f0-3b11-9d50-cbaa-1ee1cc0936cd.png",
+                                "category_name": "电脑",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "386",
+                                    "log_code": "31wapcategorycategory_group002048#rid=b7aa2a7ab85742c7a46a2bb45eda1e50&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "笔记本15.6\"",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/0643559b70964014c1d672cc783121d2.jpg",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/0643559b70964014c1d672cc783121d2.jpg",
+                                "category_name": "电脑",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "703",
+                                    "log_code": "31wapcategorycategory_group003048#rid=34a1d071181b1756c03d01be60fb4b54&t=normal&page=category&act=cat"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/efc0c169-1c1f-3f6c-7590-15948ac35e14.webp?bg=F6F0E0",
+                                "img_url_color": "#F6F0E0",
+                                "img_url": "//i8.mifile.cn/v1/a1/efc0c169-1c1f-3f6c-7590-15948ac35e14.webp?bg=F6F0E0",
+                                "h": 80,
+                                "action": {
+                                    "type": "channel",
+                                    "path": "1607",
+                                    "log_code": "31wapcategorycells_auto_fill001049#rid=651869fac9dffe1d1ff3b372537b4f6a&t=ad&page=category&act=other&adp=1304&adm=3151"
+                                }
+                            }
+                        ],
+                        "h": 80,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "电脑配件",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001050#rid=f694b829e007f9a12f2a5d90cd399e62&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "鼠标/鼠标垫",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/2ca61893-68b9-d0a0-5f85-bdc28e655a3e!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/2ca61893-68b9-d0a0-5f85-bdc28e655a3e!200x200.jpg",
+                                "category_name": "电脑配件",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "517",
+                                    "log_code": "31wapcategorycategory_group001051#rid=58564cfec5173d1abaf09f0079d280f5&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "机械键盘",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/12925f99d858e3155c4bb3ecd1f37ae7.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/12925f99d858e3155c4bb3ecd1f37ae7.png",
+                                "category_name": "电脑配件",
+                                "action": {
+                                    "type": "product",
+                                    "path": "5499",
+                                    "log_code": "31wapcategorycategory_group002051#rid=c63746276e1fa90d0770c7126a61f71b&t=normal&page=category&act=product&pid=5499"
+                                }
+                            },
+                            {
+                                "product_name": "内胆包",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/332fe57e347fb5971cfcda5aa232ab39.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/332fe57e347fb5971cfcda5aa232ab39.png",
+                                "category_name": "电脑配件",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "518",
+                                    "log_code": "31wapcategorycategory_group003051#rid=5d468f9e2419ba1f2810d4b6a0fd577b&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "平板保护类",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/84d48d9bc2b6e6169cf6e1b09dee9b0c.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/84d48d9bc2b6e6169cf6e1b09dee9b0c.png",
+                                "category_name": "电脑配件",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "614",
+                                    "log_code": "31wapcategorycategory_group001052#rid=68d36ac839965fe6adb9bc7fc5b9b4a0&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "转接线/电源",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/08cdff9da904a7846813b004bccd6ccd.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/08cdff9da904a7846813b004bccd6ccd.png",
+                                "category_name": "电脑配件",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "519",
+                                    "log_code": "31wapcategorycategory_group002052#rid=6ccd00a2548ba022ed0620f87150176a&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "随身WiFi",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/7ced9e58-ee4d-664f-fdb7-d9ec1eb6d298.png",
+                                "img_url": "//i8.mifile.cn/v1/a1/7ced9e58-ee4d-664f-fdb7-d9ec1eb6d298.png",
+                                "category_name": "电脑配件",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "68",
+                                    "log_code": "31wapcategorycategory_group003052#rid=c4b4a938d57ddb436cb7d4c450f8db51&t=normal&page=category&act=cat"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                }
+            ],
+            "category_id": 459
+        },
+        {
+            "is_default": false,
+            "category_name_en": "jiadian",
+            "category_name": "家电",
+            "category_list": [
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/1d90ee625e15c227e848c81336a0f8d1.jpg?bg=FFFFFF",
+                                "img_url_color": "#FFFFFF",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/1d90ee625e15c227e848c81336a0f8d1.jpg?bg=FFFFFF",
+                                "h": 200,
+                                "action": {
+                                    "type": "channel",
+                                    "path": "1415",
+                                    "log_code": "31wapcategorycells_auto_fill001005#rid=c753ecef1b01e0c029747b7bc0ec4e53&t=ad&page=category&act=other&page_id=25&bid=3002991.1&adp=761&adm=1077"
+                                }
+                            }
+                        ],
+                        "h": 200,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "家电",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001053#rid=e5cd4acd89b6a169f91479f6356c4b33&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "电饭煲",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a9370fface3457e13c0db169f650fa05.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a9370fface3457e13c0db169f650fa05.png",
+                                "category_name": "家电",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "303",
+                                    "log_code": "31wapcategorycategory_group001054#rid=e8fa246dd96275b694f1eb009cdce260&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "净水器",
+                                "img_url_webp": "//i1.mifile.cn/v1/a1/T1hyAgB_VT1R4cSCrK.png",
+                                "img_url": "//i1.mifile.cn/v1/a1/T1hyAgB_VT1R4cSCrK.png",
+                                "category_name": "家电",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "153",
+                                    "log_code": "31wapcategorycategory_group002054#rid=7848ee51814ef7c08a1c82a111e47fe4&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "净化器",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/41c838f5587ef2e6d0a8e1a18a86bace.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/41c838f5587ef2e6d0a8e1a18a86bace.png",
+                                "category_name": "家电",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "116",
+                                    "log_code": "31wapcategorycategory_group003054#rid=cdd2512520285197ead959aee610bbc2&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "扫地机器人",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/101e2128-624d-ce9f-973f-50b868f8036a.png",
+                                "img_url": "//i8.mifile.cn/v1/a1/101e2128-624d-ce9f-973f-50b868f8036a.png",
+                                "category_name": "家电",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "401",
+                                    "log_code": "31wapcategorycategory_group001055#rid=c1bf96e0f56b6c06336a8ab2b85ad120&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "电水壶",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/91cd8c44-11ca-79bd-429f-de882bdeaf3b.png",
+                                "img_url": "//i8.mifile.cn/v1/a1/91cd8c44-11ca-79bd-429f-de882bdeaf3b.png",
+                                "category_name": "家电",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "353",
+                                    "log_code": "31wapcategorycategory_group002055#rid=623f58096d204aaa439e17d220da165e&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "灯具",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e07c98e7b3096f08a1e47234fc0ebbb3.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e07c98e7b3096f08a1e47234fc0ebbb3.png",
+                                "category_name": "家电",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "520",
+                                    "log_code": "31wapcategorycategory_group003055#rid=75969847020bf81359735712db28cbfd&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "空调伴侣",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/d73fd907ec31276a4109531d178fcb4e.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/d73fd907ec31276a4109531d178fcb4e.png",
+                                "category_name": "家电",
+                                "action": {
+                                    "type": "product",
+                                    "path": "5817",
+                                    "log_code": "31wapcategorycategory_group001056#rid=13d8de5adbece4985aaff783d95ffc64&t=normal&page=category&act=product&pid=5817"
+                                }
+                            },
+                            {
+                                "product_name": "空调",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/f0f096dc38408237709036101c7f37ec.jpg",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/f0f096dc38408237709036101c7f37ec.jpg",
+                                "category_name": "家电",
+                                "action": {
+                                    "type": "product",
+                                    "path": "7102",
+                                    "log_code": "31wapcategorycategory_group002056#rid=64987ba4468268a53021b2792a5856e3&t=normal&page=category&act=product&pid=7102"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                }
+            ],
+            "category_id": 460
+        },
+        {
+            "is_default": false,
+            "category_name_en": "luyou",
+            "category_name": "路由",
+            "category_list": [
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/7224b715-22f2-b243-5d56-8597a0f56dda.webp?bg=CDD1D6",
+                                "img_url_color": "#CDD1D6",
+                                "img_url": "//i8.mifile.cn/v1/a1/7224b715-22f2-b243-5d56-8597a0f56dda.webp?bg=CDD1D6",
+                                "h": 200,
+                                "action": {
+                                    "type": "product",
+                                    "path": "5663",
+                                    "log_code": "31wapcategorycells_auto_fill001006#rid=94b012288c210383dd7cae83be87a3b0&t=ad&page=category&act=product&pid=5663&page_id=25&bid=3002992.1&adp=762&adm=1079"
+                                }
+                            }
+                        ],
+                        "h": 200,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "路由",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001057#rid=36ffcaf92b45264135846ca6fe09217f&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "路由器3A",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/f379231485fd98d0d0ff553d82896bfc.jpg",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/f379231485fd98d0d0ff553d82896bfc.jpg",
+                                "category_name": "路由",
+                                "action": {
+                                    "type": "product",
+                                    "path": "5606",
+                                    "log_code": "31wapcategorycategory_group001058#rid=a3e38883934566802d1e7d8ac537dbc6&t=normal&page=category&act=product&pid=5606"
+                                }
+                            },
+                            {
+                                "product_name": "路由器3G",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/b6af48e3285c69c7143c9906c8f5db01.jpg",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/b6af48e3285c69c7143c9906c8f5db01.jpg",
+                                "category_name": "路由",
+                                "action": {
+                                    "type": "product",
+                                    "path": "5825",
+                                    "log_code": "31wapcategorycategory_group002058#rid=0bb81733fe5f7a734f14137824fcf5e3&t=normal&page=category&act=product&pid=5825"
+                                }
+                            },
+                            {
+                                "product_name": "路由器3 ",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/T1ECC_B_Av1RXrhCrK!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/T1ECC_B_Av1RXrhCrK!200x200.jpg",
+                                "category_name": "路由",
+                                "action": {
+                                    "type": "product",
+                                    "path": "2161200063",
+                                    "log_code": "31wapcategorycategory_group003058#rid=94379208ecf755a02f5839245f7cf708&t=normal&page=category&act=product&pid=2161200063"
+                                }
+                            },
+                            {
+                                "product_name": "路由器3c",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/a94fb522-9d59-bf53-a2c2-a5d982f21499!200x200.png",
+                                "img_url": "//i8.mifile.cn/v1/a1/a94fb522-9d59-bf53-a2c2-a5d982f21499!200x200.png",
+                                "category_name": "路由",
+                                "action": {
+                                    "type": "product",
+                                    "path": "2163000001",
+                                    "log_code": "31wapcategorycategory_group001059#rid=58f1fcfa03b00dc9878ce221f70874a9&t=normal&page=category&act=product&pid=2163000001"
+                                }
+                            },
+                            {
+                                "product_name": "路由器HD",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/197ed32a9ed39701110a45fc9673b779.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/197ed32a9ed39701110a45fc9673b779.png",
+                                "category_name": "路由",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "560",
+                                    "log_code": "31wapcategorycategory_group002059#rid=a36f78c831fe2b1aebbe9b685fd5ca0b&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "路由器Pro",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/651a9878ffafc9e9a053d430fedddaa1.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/651a9878ffafc9e9a053d430fedddaa1.png",
+                                "category_name": "路由",
+                                "action": {
+                                    "type": "product",
+                                    "path": "5663",
+                                    "log_code": "31wapcategorycategory_group003059#rid=5e23f14c7811cf7a5deda1fe9be8fe43&t=normal&page=category&act=product&pid=5663"
+                                }
+                            },
+                            {
+                                "product_name": "WiFi放大器",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/T1q6_vBKdv1RXrhCrK!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/T1q6_vBKdv1RXrhCrK!200x200.jpg",
+                                "category_name": "路由",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "562",
+                                    "log_code": "31wapcategorycategory_group001060#rid=c65429100783199faa84e5a8b1eaa305&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "电力猫",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a688c0c2cf5e7095de70b8a540455271.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a688c0c2cf5e7095de70b8a540455271.png",
+                                "category_name": "路由",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "642",
+                                    "log_code": "31wapcategorycategory_group002060#rid=a90d9259cbea6279f536b0f2d44fc1d7&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "线材",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/913b9ae01b6a95b7a446d31b48e4d411.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/913b9ae01b6a95b7a446d31b48e4d411.png",
+                                "category_name": "路由",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "563",
+                                    "log_code": "31wapcategorycategory_group003060#rid=cb1e603d666330cffdd13731c37e3bd5&t=normal&page=category&act=cat"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                }
+            ],
+            "category_id": 462
+        },
+        {
+            "is_default": false,
+            "category_name_en": "zhineng",
+            "category_name": "智能",
+            "category_list": [
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/ff205815-61e1-ef9f-d7d2-5650f1224c4b.webp?bg=DDDDE2",
+                                "img_url_color": "#DDDDE2",
+                                "img_url": "//i8.mifile.cn/v1/a1/ff205815-61e1-ef9f-d7d2-5650f1224c4b.webp?bg=DDDDE2",
+                                "h": 200,
+                                "action": {
+                                    "type": "channel",
+                                    "path": "1415",
+                                    "log_code": "31wapcategorycells_auto_fill001007#rid=77de9aca52107e628715d7254fd26430&t=ad&page=category&act=other&page_id=25&bid=3002993.1&adp=763&adm=1078"
+                                }
+                            }
+                        ],
+                        "h": 200,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "智能",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001061#rid=873a4b140826d94fdbda3beb16de43bb&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "智能家庭",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/60c481917f13192c4c98e1503c967b4a.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/60c481917f13192c4c98e1503c967b4a.png",
+                                "category_name": "智能",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "528",
+                                    "log_code": "31wapcategorycategory_group001062#rid=0c964684e015a0219a8bf23de594cfaa&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "VR眼镜",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9363c83afe8185b63fc84357b3017697.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9363c83afe8185b63fc84357b3017697.png",
+                                "category_name": "智能",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "636",
+                                    "log_code": "31wapcategorycategory_group002062#rid=67932e6f148f8dddb1e00d539e6e3d06&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "摄像机",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c195bfa5edff0b02da47231023cf6789.jpg",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c195bfa5edff0b02da47231023cf6789.jpg",
+                                "category_name": "智能",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "647",
+                                    "log_code": "31wapcategorycategory_group003062#rid=e34e7a5511a0d68e1354620ffacdea7b&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "儿童",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4b766cd27f35b0f4079c95c9f41547c6.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4b766cd27f35b0f4079c95c9f41547c6.png",
+                                "category_name": "智能",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "617",
+                                    "log_code": "31wapcategorycategory_group001063#rid=21578eb191fc25e20a4198a3601c9edb&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "智能插座",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dda59951d5934569aae5ed712b47bc77.jpg",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dda59951d5934569aae5ed712b47bc77.jpg",
+                                "category_name": "智能",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "645",
+                                    "log_code": "31wapcategorycategory_group002063#rid=68267dc578b5b591487d52f7e80595fb&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "网络收音机",
+                                "img_url_webp": "//i8.mifile.cn/a1/T1MHb_B4bv1RXrhCrK!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/a1/T1MHb_B4bv1RXrhCrK!200x200.jpg",
+                                "category_name": "智能",
+                                "action": {
+                                    "type": "product",
+                                    "path": "2170800015",
+                                    "log_code": "31wapcategorycategory_group003063#rid=63d6bb2aff944219c8cebaaf95cc518d&t=normal&page=category&act=product&pid=2170800015"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/f9e69934-830d-e769-3b2a-7c0679f730e7.webp?bg=F6F1E1",
+                                "img_url_color": "#F6F1E1",
+                                "img_url": "//i8.mifile.cn/v1/a1/f9e69934-830d-e769-3b2a-7c0679f730e7.webp?bg=F6F1E1",
+                                "h": 80,
+                                "action": {
+                                    "type": "channel",
+                                    "path": "1415",
+                                    "log_code": "31wapcategorycells_auto_fill001064#rid=95f92323ddfb241b614fca125f63ec67&t=ad&page=category&act=other&adp=1306&adm=3152"
+                                }
+                            }
+                        ],
+                        "h": 80,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "健康",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001065#rid=b126d7637a4f28ab7697c810f98c4634&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "手环",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6931e742eb4da4716994ce711d147317.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6931e742eb4da4716994ce711d147317.png",
+                                "category_name": "健康",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "111",
+                                    "log_code": "31wapcategorycategory_group001066#rid=e036442cb1a3adae0a71cfba3f41bf21&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "血压计",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/T14BVjB_YT1R4cSCrK.png",
+                                "img_url": "//i8.mifile.cn/v1/a1/T14BVjB_YT1R4cSCrK.png",
+                                "category_name": "健康",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "112",
+                                    "log_code": "31wapcategorycategory_group002066#rid=52887368c80ae8aeaf4e5c8d814e86bb&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "秤",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5dafe36a4db9dcae09ad629548d84753.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5dafe36a4db9dcae09ad629548d84753.png",
+                                "category_name": "健康",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "524",
+                                    "log_code": "31wapcategorycategory_group003066#rid=8dacc17413b722949cbd05cc8d125a54&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "体温计",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/5304c138850e21ce2586c6658ea712f9.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/5304c138850e21ce2586c6658ea712f9.png",
+                                "category_name": "健康",
+                                "action": {
+                                    "type": "product",
+                                    "path": "6791",
+                                    "log_code": "31wapcategorycategory_group001067#rid=1ede28004d61f4dbed907d38494cdcfc&t=normal&page=category&act=product&pid=6791"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "户外",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001068#rid=af83ccfac297f7f8792500a149695873&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "出行",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/6c35232de6adf01edf626a01c7947f1c.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/6c35232de6adf01edf626a01c7947f1c.png",
+                                "category_name": "户外",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "525",
+                                    "log_code": "31wapcategorycategory_group001069#rid=0ac482a5fbc4dee49f56f675818c6fe2&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "无人机",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c97e1f3665ce0d2b1fe33f917c6a38ef.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c97e1f3665ce0d2b1fe33f917c6a38ef.png",
+                                "category_name": "户外",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "538",
+                                    "log_code": "31wapcategorycategory_group002069#rid=851e6b2d209a646ae60cfcfc4a0593e2&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "对讲机",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0e89ec8bd1c377538241e8efcc684715.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0e89ec8bd1c377538241e8efcc684715.png",
+                                "category_name": "户外",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "540",
+                                    "log_code": "31wapcategorycategory_group003069#rid=a74d9bacb6cfec6ff41460afe07e463e&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "车载用品",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7cfd858d0941bf237f7e8a9d62897ce8.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7cfd858d0941bf237f7e8a9d62897ce8.png",
+                                "category_name": "户外",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "635",
+                                    "log_code": "31wapcategorycategory_group001070#rid=e9ad0363a11de9c67bb301fc499d2f4c&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "智能相机",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/bb492da9536e6c4e737e5e74e59f2331.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/bb492da9536e6c4e737e5e74e59f2331.png",
+                                "category_name": "户外",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "618",
+                                    "log_code": "31wapcategorycategory_group002070#rid=b2610021c4d4802f8b75875beeddc2dd&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "智能硬件套装",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e8f71941f5749a5768ab1e746c185d34.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e8f71941f5749a5768ab1e746c185d34.png",
+                                "category_name": "户外",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "637",
+                                    "log_code": "31wapcategorycategory_group003070#rid=a62ee8fa896974ef9c3b014e068e0b00&t=normal&page=category&act=cat"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                }
+            ],
+            "category_id": 461
+        },
+        {
+            "is_default": false,
+            "category_name_en": "dianyuan",
+            "category_name": "电源",
+            "category_list": [
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/f36e2436-a2f1-2ab7-d630-fd5d511545b1.webp?bg=C1C3C9",
+                                "img_url_color": "#C1C3C9",
+                                "img_url": "//i8.mifile.cn/v1/a1/f36e2436-a2f1-2ab7-d630-fd5d511545b1.webp?bg=C1C3C9",
+                                "h": 200,
+                                "action": {
+                                    "type": "product",
+                                    "path": "4580",
+                                    "log_code": "31wapcategorycells_auto_fill001008#rid=bf1d63bfce9804b73bdcb139205f9889&t=ad&page=category&act=product&pid=4580&page_id=25&bid=3002994.1&adp=764&adm=1080"
+                                }
+                            }
+                        ],
+                        "h": 200,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "电源",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001071#rid=1e90747c3e50f8e62a99f0514e33de4e&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "插线板",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/307f6347f6703aeed23c19bfb02ad607.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/307f6347f6703aeed23c19bfb02ad607.png",
+                                "category_name": "电源",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "565",
+                                    "log_code": "31wapcategorycategory_group001072#rid=611a45f35c400839e7e1a02505d2a6bd&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "移动电源",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/3563cadb-795d-2240-c83d-9aeedd67ff4e!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/3563cadb-795d-2240-c83d-9aeedd67ff4e!200x200.jpg",
+                                "category_name": "电源",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "564",
+                                    "log_code": "31wapcategorycategory_group002072#rid=7919f3700bcd5bbb802b6a905f30637b&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "智能插座",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/T1gsV_BTCv1RXrhCrK!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/T1gsV_BTCv1RXrhCrK!200x200.jpg",
+                                "category_name": "电源",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "566",
+                                    "log_code": "31wapcategorycategory_group003072#rid=77b54656db32064260e31663f19f899b&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "电池",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d3d2e61dad0a2e3b50201ce3714d2fb3.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d3d2e61dad0a2e3b50201ce3714d2fb3.png",
+                                "category_name": "电源",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "567",
+                                    "log_code": "31wapcategorycategory_group001073#rid=e899dc2061634f5d77a79ae3bed72715&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "电源配件",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/331cd25e1bc487ecc6c1d00a3706fbcc.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/331cd25e1bc487ecc6c1d00a3706fbcc.png",
+                                "category_name": "电源",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "639",
+                                    "log_code": "31wapcategorycategory_group002073#rid=e9fc9463f45c68c3316929cd46403fcf&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "充电器",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4cb379981337feb506ae4db12b003eb2.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4cb379981337feb506ae4db12b003eb2.png",
+                                "category_name": "电源",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "649",
+                                    "log_code": "31wapcategorycategory_group003073#rid=f2681a3539e9408bb3dcbfde4533ae08&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "品牌移动电源",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f1869c30d9a7eebf6dd78347caaecf30.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f1869c30d9a7eebf6dd78347caaecf30.png",
+                                "category_name": "电源",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "623",
+                                    "log_code": "31wapcategorycategory_group001074#rid=1b25cf3f39a94ffa24edae8b22f90ccb&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "电源套装",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/ed8df8b50ec2445701ebb83f0af437c6.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/ed8df8b50ec2445701ebb83f0af437c6.png",
+                                "category_name": "电源",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "638",
+                                    "log_code": "31wapcategorycategory_group002074#rid=063d46f8120bec6f3edb5f102dfc5ad2&t=normal&page=category&act=cat"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                }
+            ],
+            "category_id": 463
+        },
+        {
+            "is_default": false,
+            "category_name_en": "erji",
+            "category_name": "耳机",
+            "category_list": [
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/28237c8e-af58-aaa4-dee0-6c403c9e7c5b.webp?bg=B2A081",
+                                "img_url_color": "#B2A081",
+                                "img_url": "//i8.mifile.cn/v1/a1/28237c8e-af58-aaa4-dee0-6c403c9e7c5b.webp?bg=B2A081",
+                                "h": 200,
+                                "action": {
+                                    "type": "product",
+                                    "path": "5677",
+                                    "log_code": "31wapcategorycells_auto_fill001009#rid=3d2a3ef2c0b379fbbad5788aeefb7c27&t=ad&page=category&act=product&pid=5677&page_id=25&bid=3002995.1&adp=765&adm=1340"
+                                }
+                            }
+                        ],
+                        "h": 200,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "耳机",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001075#rid=056a74ae42cc30561f7ca2bc5e3135d6&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "线控耳机",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/11ad3681debb4a8d59a2ed600ef8bb5b.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/11ad3681debb4a8d59a2ed600ef8bb5b.png",
+                                "category_name": "耳机",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "577",
+                                    "log_code": "31wapcategorycategory_group001076#rid=735bdd1dbb2b41a6ab8d00af4724c093&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "蓝牙耳机",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/7b45823a-9913-5871-55c1-82b83c92ec32!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/7b45823a-9913-5871-55c1-82b83c92ec32!200x200.jpg",
+                                "category_name": "耳机",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "578",
+                                    "log_code": "31wapcategorycategory_group002076#rid=94f131297252b3b2162bcc5953f4a40e&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "头戴式耳机",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/eead143a-3672-f86b-75cc-06dcc1492c33!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/eead143a-3672-f86b-75cc-06dcc1492c33!200x200.jpg",
+                                "category_name": "耳机",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "579",
+                                    "log_code": "31wapcategorycategory_group003076#rid=c952baa6c4a38fada12adcdc7f91455f&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "品牌耳机",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c45a549683b997d687b8b4071463689e.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c45a549683b997d687b8b4071463689e.png",
+                                "category_name": "耳机",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "624",
+                                    "log_code": "31wapcategorycategory_group001077#rid=52a98dbcf263288c591f038103b3298d&t=normal&page=category&act=cat"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                }
+            ],
+            "category_id": 464
+        },
+        {
+            "is_default": false,
+            "category_name_en": "yinxiang",
+            "category_name": "音箱",
+            "category_list": [
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/e10e873f-5aa2-e3ae-336a-8b75748a45a4.webp?bg=BED8CF",
+                                "img_url_color": "#BED8CF",
+                                "img_url": "//i8.mifile.cn/v1/a1/e10e873f-5aa2-e3ae-336a-8b75748a45a4.webp?bg=BED8CF",
+                                "h": 200,
+                                "action": {
+                                    "type": "channel",
+                                    "path": "34",
+                                    "log_code": "31wapcategorycells_auto_fill001010#rid=d6a13c8229e3b4aadbf8a93496285169&t=ad&page=category&act=other&page_id=25&bid=3002996.1&adp=766&adm=1082"
+                                }
+                            }
+                        ],
+                        "h": 200,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "音箱",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001078#rid=89a36e3f64476500693565cb25490df7&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "AI音箱",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/b72df8d6174c6783d387721aa635932a.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/b72df8d6174c6783d387721aa635932a.png",
+                                "category_name": "音箱",
+                                "action": {
+                                    "type": "product",
+                                    "path": "6334",
+                                    "log_code": "31wapcategorycategory_group001079#rid=6d3e0df2374b1abe527098827c11fc04&t=normal&page=category&act=product&pid=6334"
+                                }
+                            },
+                            {
+                                "product_name": "蓝牙音箱",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7c50ff1d52895216952388343a6e2a45.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7c50ff1d52895216952388343a6e2a45.png",
+                                "category_name": "音箱",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "581",
+                                    "log_code": "31wapcategorycategory_group002079#rid=4b06518a305522ea063006efbfbe3a3a&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "电视音响",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/T1ztCgBKEv1RXrhCrK!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/T1ztCgBKEv1RXrhCrK!200x200.jpg",
+                                "category_name": "音箱",
+                                "action": {
+                                    "type": "product",
+                                    "path": "4910",
+                                    "log_code": "31wapcategorycategory_group003079#rid=bc8df457fdd1f28e220cf95823f1ae52&t=normal&page=category&act=product&pid=4910"
+                                }
+                            },
+                            {
+                                "product_name": "音乐闹钟",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/e3200da0-17b3-75a4-5505-8bac8e90cf85!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/e3200da0-17b3-75a4-5505-8bac8e90cf85!200x200.jpg",
+                                "category_name": "音箱",
+                                "action": {
+                                    "type": "product",
+                                    "path": "2163900006",
+                                    "log_code": "31wapcategorycategory_group001080#rid=2f8e2811c60a551f19303013bf044e3c&t=normal&page=category&act=product&pid=2163900006"
+                                }
+                            },
+                            {
+                                "product_name": "网络收音机",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/55a1a28c9e3f8cef66ea070929485768.jpg",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/55a1a28c9e3f8cef66ea070929485768.jpg",
+                                "category_name": "音箱",
+                                "action": {
+                                    "type": "product",
+                                    "path": "5295",
+                                    "log_code": "31wapcategorycategory_group002080#rid=790cde80a59da0cf131e98d9860bfe34&t=normal&page=category&act=product&pid=5295"
+                                }
+                            },
+                            {
+                                "product_name": "网络音响",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c50e2d62678263a5f6931d9b55bbf949.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c50e2d62678263a5f6931d9b55bbf949.png",
+                                "category_name": "音箱",
+                                "action": {
+                                    "type": "product",
+                                    "path": "4787",
+                                    "log_code": "31wapcategorycategory_group003080#rid=39ab0e5579e01dce3fa0a7f2bac817c9&t=normal&page=category&act=product&pid=4787"
+                                }
+                            },
+                            {
+                                "product_name": "配件",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e2ef93a10cd663c13b52d84763a0f0b2.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e2ef93a10cd663c13b52d84763a0f0b2.png",
+                                "category_name": "音箱",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "646",
+                                    "log_code": "31wapcategorycategory_group001081#rid=cb3434515558ad992d6d615a7ab9b440&t=normal&page=category&act=cat"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                }
+            ],
+            "category_id": 465
+        },
+        {
+            "is_default": false,
+            "category_name_en": "lipin",
+            "category_name": "礼品",
+            "category_list": [
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4621fee79520fd01d8edfe18d0e67a40.jpg?bg=FFFFFF",
+                                "img_url_color": "#FFFFFF",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4621fee79520fd01d8edfe18d0e67a40.jpg?bg=FFFFFF",
+                                "h": 200,
+                                "action": {
+                                    "type": "channel",
+                                    "path": "1415",
+                                    "log_code": "31wapcategorycells_auto_fill001011#rid=514c576148e58b22b3607dbc50ec881b&t=ad&page=category&act=other&page_id=25&bid=3002997.1&adp=767&adm=947"
+                                }
+                            }
+                        ],
+                        "h": 200,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "礼品",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001082#rid=9ff38770ca5d97e284b82718ef2ecfbf&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "送长辈",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3a168c437a5742f0c155fc240f4380de.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3a168c437a5742f0c155fc240f4380de.png",
+                                "category_name": "礼品",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "488",
+                                    "log_code": "31wapcategorycategory_group001083#rid=307df3653242b1c753d466a03c025cfb&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "送孩子",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/de206b80adc6dd2af3bd968e5b5e6ec0.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/de206b80adc6dd2af3bd968e5b5e6ec0.png",
+                                "category_name": "礼品",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "489",
+                                    "log_code": "31wapcategorycategory_group002083#rid=87ba23d59e52cd68c142467e03681359&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "送男生",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/58becaea14744c9ec2d0f576a7413395.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/58becaea14744c9ec2d0f576a7413395.png",
+                                "category_name": "礼品",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "490",
+                                    "log_code": "31wapcategorycategory_group003083#rid=f39947f115a52f528428ae7c2b763c25&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "送女生",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/78da4524339eaca2763fbc591a4fe3c1.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/78da4524339eaca2763fbc591a4fe3c1.png",
+                                "category_name": "礼品",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "491",
+                                    "log_code": "31wapcategorycategory_group001084#rid=972fab71b6a2c9c14a99eda7839e6fb9&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "优惠套装",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/95dd58f46a0637a9c49582fe45223f48.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/95dd58f46a0637a9c49582fe45223f48.png",
+                                "category_name": "礼品",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "633",
+                                    "log_code": "31wapcategorycategory_group002084#rid=6a70169d0aadbc6e3c1368557363e824&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "新品",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/72579bfcba9ce6f0792e878fa9bcd75c.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/72579bfcba9ce6f0792e878fa9bcd75c.png",
+                                "category_name": "礼品",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "652",
+                                    "log_code": "31wapcategorycategory_group003084#rid=21028d39cd03be0a93d803eb60af6ca6&t=normal&page=category&act=cat"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                }
+            ],
+            "category_id": 456
+        },
+        {
+            "is_default": false,
+            "category_name_en": "shenghuo",
+            "category_name": "生活",
+            "category_list": [
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/42bf7f37-aee9-e043-3233-259f9b9fca39.webp?bg=D7C8BC",
+                                "img_url_color": "#D7C8BC",
+                                "img_url": "//i8.mifile.cn/v1/a1/42bf7f37-aee9-e043-3233-259f9b9fca39.webp?bg=D7C8BC",
+                                "h": 200,
+                                "action": {
+                                    "type": "product",
+                                    "path": "4375",
+                                    "log_code": "31wapcategorycells_auto_fill001012#rid=a226af803f264c0e7151fa0ea1aee9c4&t=ad&page=category&act=product&pid=4375&page_id=25&bid=3002998.1&adp=768&adm=3819"
+                                }
+                            }
+                        ],
+                        "h": 200,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "生活",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001085#rid=5a87ac04994458bcbbdd22e2303f5350&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "运动鞋",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b6c100778d097e9f6afa1906fe9dd941.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b6c100778d097e9f6afa1906fe9dd941.png",
+                                "category_name": "生活",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "619",
+                                    "log_code": "31wapcategorycategory_group001086#rid=076ec23e47dfe6ddf2137e541ce6c229&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "服饰",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/197b5056c965bfe55fe042e13d303995.jpg",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/197b5056c965bfe55fe042e13d303995.jpg",
+                                "category_name": "生活",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "712",
+                                    "log_code": "31wapcategorycategory_group002086#rid=4d9964c6b8a49fa0e0cf132185992590&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "旅行箱",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/81a4f58bff013b6ea4a76908a3027747.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/81a4f58bff013b6ea4a76908a3027747.png",
+                                "category_name": "生活",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "713",
+                                    "log_code": "31wapcategorycategory_group003086#rid=0c13afc76c29738c8e9f132a9e7d4abc&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "背包/收纳",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/11a4655745ee2f19fdc356f3fba57648.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/11a4655745ee2f19fdc356f3fba57648.png",
+                                "category_name": "生活",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "640",
+                                    "log_code": "31wapcategorycategory_group001087#rid=020a959796b6f510f8d70519829c7680&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "眼镜",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a8eba1e2d75beba2daad2678cf0718bb.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a8eba1e2d75beba2daad2678cf0718bb.png",
+                                "category_name": "生活",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "632",
+                                    "log_code": "31wapcategorycategory_group002087#rid=18b3ada05d6364b75537dbee6814e8ad&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "口罩",
+                                "img_url_webp": "//i8.mifile.cn/a1/pms_1479182992.17725653!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/a1/pms_1479182992.17725653!200x200.jpg",
+                                "category_name": "生活",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "597",
+                                    "log_code": "31wapcategorycategory_group003087#rid=bbd49473a514ef3a4865fa2d769d9f48&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "雨伞",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/e4fb4c52532c098af5b1015aa4c61aec.jpg",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/e4fb4c52532c098af5b1015aa4c61aec.jpg",
+                                "category_name": "生活",
+                                "action": {
+                                    "type": "product",
+                                    "path": "6124",
+                                    "log_code": "31wapcategorycategory_group001088#rid=f35bb02ac99d3fbc45dbae5f11bad722&t=normal&page=category&act=product&pid=6124"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/4ddf67d4-009e-e023-8809-775eecedb7d2.webp?bg=F6F0E0",
+                                "img_url_color": "#F6F0E0",
+                                "img_url": "//i8.mifile.cn/v1/a1/4ddf67d4-009e-e023-8809-775eecedb7d2.webp?bg=F6F0E0",
+                                "h": 80,
+                                "action": {
+                                    "type": "channel",
+                                    "path": "2555",
+                                    "log_code": "31wapcategorycells_auto_fill001089#rid=b643e781603df7d6b508eb69778fbed8&t=ad&page=category&act=other&adp=1305&adm=3153"
+                                }
+                            }
+                        ],
+                        "h": 80,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "居家",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001090#rid=d8bdc0d8b4e7c91b6dcc13482492a992&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "牙刷",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/fbc14b5b4f7c06b53e1e70af21c5784a.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/fbc14b5b4f7c06b53e1e70af21c5784a.png",
+                                "category_name": "居家",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "678",
+                                    "log_code": "31wapcategorycategory_group001091#rid=c71a126e763c7988ea59299215d80e72&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "床品",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/1454d4d897d954649c051d6628021455.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/1454d4d897d954649c051d6628021455.png",
+                                "category_name": "居家",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "594",
+                                    "log_code": "31wapcategorycategory_group002091#rid=e7c3e15b854ff9281aee5d31cacf02d7&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "毛巾",
+                                "img_url_webp": "//i8.mifile.cn/a1/pms_1481881674.9521847!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/a1/pms_1481881674.9521847!200x200.jpg",
+                                "category_name": "居家",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "595",
+                                    "log_code": "31wapcategorycategory_group003091#rid=1811ce704b148c70ebf42907d93d55b2&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "颈枕",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2a6db34dd9556593b7e9e1e241274d52.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2a6db34dd9556593b7e9e1e241274d52.png",
+                                "category_name": "居家",
+                                "action": {
+                                    "type": "product",
+                                    "path": "4943",
+                                    "log_code": "31wapcategorycategory_group001092#rid=e83b76126e6f2b3a40f23da40818808d&t=normal&page=category&act=product&pid=4943"
+                                }
+                            },
+                            {
+                                "product_name": "工具",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/b48ffd296339aa5a4ddf446d15edf4c4.jpg",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/b48ffd296339aa5a4ddf446d15edf4c4.jpg",
+                                "category_name": "居家",
+                                "action": {
+                                    "type": "product",
+                                    "path": "6125",
+                                    "log_code": "31wapcategorycategory_group002092#rid=adf8fa3d0d9d67a6c1e62dc136410e3f&t=normal&page=category&act=product&pid=6125"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "文具",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001093#rid=40e36a2e9e92be957527972839315111&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "笔",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/6819bd3b-561c-123b-94e8-d7f1e5b24063!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/6819bd3b-561c-123b-94e8-d7f1e5b24063!200x200.jpg",
+                                "category_name": "文具",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "596",
+                                    "log_code": "31wapcategorycategory_group001094#rid=39f1fac9aac743f80169946983ecd9d4&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "米兔",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/834cde0c-4f3c-625b-1730-79c8d2cfc954!200x200.jpg",
+                                "img_url": "//i8.mifile.cn/v1/a1/834cde0c-4f3c-625b-1730-79c8d2cfc954!200x200.jpg",
+                                "category_name": "文具",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "593",
+                                    "log_code": "31wapcategorycategory_group002094#rid=ec476daebd56362c80a786e751b80e98&t=normal&page=category&act=cat"
+                                }
+                            },
+                            {
+                                "product_name": "印刷品",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/02af71d3218f0ebe08de84555423afd1.png",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/02af71d3218f0ebe08de84555423afd1.png",
+                                "category_name": "文具",
+                                "action": {
+                                    "type": "cate",
+                                    "path": "598",
+                                    "log_code": "31wapcategorycategory_group003094#rid=a5bc91f602098538b0742f9a5ae0aef4&t=normal&page=category&act=cat"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                }
+            ],
+            "category_id": 466
+        },
+        {
+            "is_default": false,
+            "category_name_en": "",
+            "category_name": "米粉卡",
+            "category_list": [
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/8ad246f2-b5ba-e30d-772c-7e023b0fc17f.webp?bg=F8D4B1",
+                                "img_url_color": "#F8D4B1",
+                                "img_url": "//i8.mifile.cn/v1/a1/8ad246f2-b5ba-e30d-772c-7e023b0fc17f.webp?bg=F8D4B1",
+                                "h": 200,
+                                "action": {
+                                    "type": "url",
+                                    "path": "https://service.10046.mi.com/main_home?from=10001&needValidHost=false&defaultTextSize=true",
+                                    "log_code": "31wapcategorycells_auto_fill001013#rid=9cec25c18e9a36a1a19b25e4bb814ceb&t=ad&page=category&act=webview&page_id=25&bid=3002999.1&adp=838&adm=1541"
+                                }
+                            }
+                        ],
+                        "h": 200,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "电话卡",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001095#rid=43db187cce9fb431879eb9f8479455a7&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "日租卡",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/f1c689466a6d309a7dd3d0215c734846.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/f1c689466a6d309a7dd3d0215c734846.png",
+                                "category_name": "电话卡",
+                                "action": {
+                                    "type": "product",
+                                    "path": "6009",
+                                    "log_code": "31wapcategorycategory_group001096#rid=b78e92f7ad6aea686de157e3db70dd04&t=normal&page=category&act=product&pid=6009"
+                                }
+                            },
+                            {
+                                "product_name": "月租卡",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/ee289a60160dd1e7fce6c55bc89c30c1.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/ee289a60160dd1e7fce6c55bc89c30c1.png",
+                                "category_name": "电话卡",
+                                "action": {
+                                    "type": "url",
+                                    "path": "https://m.10010.com/queen/xiaomi/mifancards.html?channel=1&needValidHost=false",
+                                    "log_code": "31wapcategorycategory_group002096#rid=4a60af2fee3980950ef39fbd40589dd3&t=normal&page=category&act=webview"
+                                }
+                            },
+                            {
+                                "product_name": "吃到饱",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2ceaba659be7a72f8da989c5d85a39c9.jpg",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2ceaba659be7a72f8da989c5d85a39c9.jpg",
+                                "category_name": "电话卡",
+                                "action": {
+                                    "type": "url",
+                                    "path": "https://m.mi.com/#/vno/step1?operators=ct&kind=cdb&client_id=180100031058&masid=10046.mvno10001&enter=1",
+                                    "log_code": "31wapcategorycategory_group003096#rid=f751adae4dae92cf378ce1ea22145af1&t=normal&page=category&act=webview"
+                                }
+                            },
+                            {
+                                "product_name": "任我行",
+                                "img_url_webp": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/631f60b5b8cf50ecb04e2c9aadbd7161.jpg",
+                                "img_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/631f60b5b8cf50ecb04e2c9aadbd7161.jpg",
+                                "category_name": "电话卡",
+                                "action": {
+                                    "type": "url",
+                                    "path": "https://m.mi.com/#/vno/step1?operators=cu&kind=rwx&client_id=180100031058&masid=10046.mvno10001&enter=1",
+                                    "log_code": "31wapcategorycategory_group001097#rid=bc2e3f7023fbf3a616bd98de845d60e4&t=normal&page=category&act=webview"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                }
+            ],
+            "category_id": 670
+        },
+        {
+            "is_default": false,
+            "category_name_en": "lingshoudian",
+            "category_name": "零售店",
+            "category_list": [
+                {
+                    "view_type": "cells_auto_fill",
+                    "stat": "",
+                    "is_show": "Y",
+                    "body": {
+                        "w": 500,
+                        "items": [
+                            {
+                                "w": 500,
+                                "path_type": "image",
+                                "img_url_webp": "//i8.mifile.cn/v1/a1/5168518d-d359-be70-a7fd-5c3c4433409e.webp?bg=5DC37A",
+                                "img_url_color": "#5DC37A",
+                                "img_url": "//i8.mifile.cn/v1/a1/5168518d-d359-be70-a7fd-5c3c4433409e.webp?bg=5DC37A",
+                                "h": 200,
+                                "action": {
+                                    "type": "url",
+                                    "path": "https://m.mi.com/#/aftersale/list",
+                                    "log_code": "31wapcategorycells_auto_fill001014#rid=96440cb6e2fa4f39a65ed388ccd1a1b0&t=ad&page=category&act=webview&page_id=25&bid=3003000.1&adp=777&adm=1393"
+                                }
+                            }
+                        ],
+                        "h": 200,
+                        "category_name": ""
+                    }
+                },
+                {
+                    "view_type": "category_title",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": null,
+                        "h": 0,
+                        "category_name": "零售店",
+                        "action": {
+                            "log_code": "31wapcategorycategory_title001098#rid=d37e8453b74a4be45cc891f71c8ffa95&t=normal&page=category&act=other"
+                        }
+                    }
+                },
+                {
+                    "view_type": "category_group",
+                    "stat": "",
+                    "is_show": "",
+                    "body": {
+                        "w": 0,
+                        "items": [
+                            {
+                                "product_name": "小米之家",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/36e61899896b5e7609e4bbc32b0471e3.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/36e61899896b5e7609e4bbc32b0471e3.png",
+                                "category_name": "零售店",
+                                "action": {
+                                    "type": "url",
+                                    "path": "http://m.mi.com/#/mihome",
+                                    "log_code": "31wapcategorycategory_group001099#rid=2af9f37f335861a4b9e55689deccae6d&t=normal&page=category&act=webview"
+                                }
+                            },
+                            {
+                                "product_name": "服务网点",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/44bf50a768761446ef32c83c0f9eeea1.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/44bf50a768761446ef32c83c0f9eeea1.png",
+                                "category_name": "零售店",
+                                "action": {
+                                    "type": "url",
+                                    "path": "http://m.mi.com/#/station",
+                                    "log_code": "31wapcategorycategory_group002099#rid=62b756d4e0e188a0b8e108a406006f29&t=normal&page=category&act=webview"
+                                }
+                            },
+                            {
+                                "product_name": "零售网点",
+                                "img_url_webp": "//i8.mifile.cn/b2c-mimall-media/e241b4ca0c5ad159abd1c6df274df0c6.png",
+                                "img_url": "//i8.mifile.cn/b2c-mimall-media/e241b4ca0c5ad159abd1c6df274df0c6.png",
+                                "category_name": "零售店",
+                                "action": {
+                                    "type": "url",
+                                    "path": "http://m.mi.com/#/retail",
+                                    "log_code": "31wapcategorycategory_group003099#rid=215e5070c4038cd3565e32b4fad8894a&t=normal&page=category&act=webview"
+                                }
+                            }
+                        ],
+                        "h": 0,
+                        "category_name": ""
+                    }
+                }
+            ],
+            "category_id": 468
+        }
+    ]
+}
